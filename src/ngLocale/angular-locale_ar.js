@@ -24,7 +24,7 @@ $provide.value("$locale", {
       "\u0642.\u0645",
       "\u0645"
     ],
-    "FIRSTDAYOFWEEK": 5,
+    "FIRSTDAYOFWEEK": 6,
     "MONTH": [
       "\u064a\u0646\u0627\u064a\u0631",
       "\u0641\u0628\u0631\u0627\u064a\u0631",
